@@ -11,7 +11,7 @@
 
 code {
     font-family: "TypoPRO Iosevka Term", monospace;
-    font-weight: 400;
+    font-weight: 600;
 }
 
 /* Iosevka on Powercord */
@@ -26,7 +26,7 @@ pre > code {
     --background-primary: #1d2021;
     --background-secondary: #1d1c1c;
     --background-tertiary: #201c1a;
-    --background-accent: #9c8374;
+    --background-accent: #66564c;
     --text-normal: #e6d5aa;
     --text-spotify: #f5f3ee;
     --text-muted: #bdae93;
